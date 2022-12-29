@@ -8,6 +8,17 @@ class ShopApplicationTests {
 
 	@Test
 	void contextLoads() {
+		int b = 11;
+		int a = 10;
+		int cc = 10;
+		int dd = 100;	
+		int ww;
+		int xxx;
+		int ee;
+		int rr;
+		
+		
+		int aaaaaaaaa=10;
 	}
 
 }
